@@ -1,0 +1,20 @@
+C:\Users\B-407\Desktop\bilp203 projeleri\hafta 5\hesapMakinesi\hesapMakinesi\bin\Debug\hesapMakinesi.exe.config
+C:\Users\B-407\Desktop\bilp203 projeleri\hafta 5\hesapMakinesi\hesapMakinesi\bin\Debug\hesapMakinesi.exe
+C:\Users\B-407\Desktop\bilp203 projeleri\hafta 5\hesapMakinesi\hesapMakinesi\bin\Debug\hesapMakinesi.pdb
+C:\Users\B-407\Desktop\bilp203 projeleri\hafta 5\hesapMakinesi\hesapMakinesi\obj\Debug\hesapMakinesi.csprojAssemblyReference.cache
+C:\Users\B-407\Desktop\bilp203 projeleri\hafta 5\hesapMakinesi\hesapMakinesi\obj\Debug\hesapMakinesi.Form1.resources
+C:\Users\B-407\Desktop\bilp203 projeleri\hafta 5\hesapMakinesi\hesapMakinesi\obj\Debug\hesapMakinesi.Properties.Resources.resources
+C:\Users\B-407\Desktop\bilp203 projeleri\hafta 5\hesapMakinesi\hesapMakinesi\obj\Debug\hesapMakinesi.csproj.GenerateResource.cache
+C:\Users\B-407\Desktop\bilp203 projeleri\hafta 5\hesapMakinesi\hesapMakinesi\obj\Debug\hesapMakinesi.csproj.CoreCompileInputs.cache
+C:\Users\B-407\Desktop\bilp203 projeleri\hafta 5\hesapMakinesi\hesapMakinesi\obj\Debug\hesapMakinesi.exe
+C:\Users\B-407\Desktop\bilp203 projeleri\hafta 5\hesapMakinesi\hesapMakinesi\obj\Debug\hesapMakinesi.pdb
+C:\Users\gorkem\Desktop\hesapMakinesi\hesapMakinesi\bin\Debug\hesapMakinesi.exe.config
+C:\Users\gorkem\Desktop\hesapMakinesi\hesapMakinesi\bin\Debug\hesapMakinesi.exe
+C:\Users\gorkem\Desktop\hesapMakinesi\hesapMakinesi\bin\Debug\hesapMakinesi.pdb
+C:\Users\gorkem\Desktop\hesapMakinesi\hesapMakinesi\obj\Debug\hesapMakinesi.csproj.AssemblyReference.cache
+C:\Users\gorkem\Desktop\hesapMakinesi\hesapMakinesi\obj\Debug\hesapMakinesi.Form1.resources
+C:\Users\gorkem\Desktop\hesapMakinesi\hesapMakinesi\obj\Debug\hesapMakinesi.Properties.Resources.resources
+C:\Users\gorkem\Desktop\hesapMakinesi\hesapMakinesi\obj\Debug\hesapMakinesi.csproj.GenerateResource.cache
+C:\Users\gorkem\Desktop\hesapMakinesi\hesapMakinesi\obj\Debug\hesapMakinesi.csproj.CoreCompileInputs.cache
+C:\Users\gorkem\Desktop\hesapMakinesi\hesapMakinesi\obj\Debug\hesapMakinesi.exe
+C:\Users\gorkem\Desktop\hesapMakinesi\hesapMakinesi\obj\Debug\hesapMakinesi.pdb
