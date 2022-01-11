@@ -1,0 +1,10 @@
+C:\Users\gorkem\Desktop\ornek07\ornek07\bin\Debug\ornek07.exe.config
+C:\Users\gorkem\Desktop\ornek07\ornek07\bin\Debug\ornek07.exe
+C:\Users\gorkem\Desktop\ornek07\ornek07\bin\Debug\ornek07.pdb
+C:\Users\gorkem\Desktop\ornek07\ornek07\obj\Debug\ornek07.csproj.AssemblyReference.cache
+C:\Users\gorkem\Desktop\ornek07\ornek07\obj\Debug\ornek07.Form1.resources
+C:\Users\gorkem\Desktop\ornek07\ornek07\obj\Debug\ornek07.Properties.Resources.resources
+C:\Users\gorkem\Desktop\ornek07\ornek07\obj\Debug\ornek07.csproj.GenerateResource.cache
+C:\Users\gorkem\Desktop\ornek07\ornek07\obj\Debug\ornek07.csproj.CoreCompileInputs.cache
+C:\Users\gorkem\Desktop\ornek07\ornek07\obj\Debug\ornek07.exe
+C:\Users\gorkem\Desktop\ornek07\ornek07\obj\Debug\ornek07.pdb

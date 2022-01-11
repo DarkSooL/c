@@ -1,0 +1,10 @@
+C:\Users\gorkem\Desktop\lab\lab\bin\Debug\lab.exe.config
+C:\Users\gorkem\Desktop\lab\lab\bin\Debug\lab.exe
+C:\Users\gorkem\Desktop\lab\lab\bin\Debug\lab.pdb
+C:\Users\gorkem\Desktop\lab\lab\obj\Debug\lab.csproj.AssemblyReference.cache
+C:\Users\gorkem\Desktop\lab\lab\obj\Debug\lab.Form1.resources
+C:\Users\gorkem\Desktop\lab\lab\obj\Debug\lab.Properties.Resources.resources
+C:\Users\gorkem\Desktop\lab\lab\obj\Debug\lab.csproj.GenerateResource.cache
+C:\Users\gorkem\Desktop\lab\lab\obj\Debug\lab.csproj.CoreCompileInputs.cache
+C:\Users\gorkem\Desktop\lab\lab\obj\Debug\lab.exe
+C:\Users\gorkem\Desktop\lab\lab\obj\Debug\lab.pdb

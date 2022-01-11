@@ -1,0 +1,10 @@
+C:\Users\gorkem\Desktop\ornek17\ornek17\bin\Debug\ornek17.exe.config
+C:\Users\gorkem\Desktop\ornek17\ornek17\bin\Debug\ornek17.exe
+C:\Users\gorkem\Desktop\ornek17\ornek17\bin\Debug\ornek17.pdb
+C:\Users\gorkem\Desktop\ornek17\ornek17\obj\Debug\ornek17.csproj.AssemblyReference.cache
+C:\Users\gorkem\Desktop\ornek17\ornek17\obj\Debug\ornek17.Form1.resources
+C:\Users\gorkem\Desktop\ornek17\ornek17\obj\Debug\ornek17.Properties.Resources.resources
+C:\Users\gorkem\Desktop\ornek17\ornek17\obj\Debug\ornek17.csproj.GenerateResource.cache
+C:\Users\gorkem\Desktop\ornek17\ornek17\obj\Debug\ornek17.csproj.CoreCompileInputs.cache
+C:\Users\gorkem\Desktop\ornek17\ornek17\obj\Debug\ornek17.exe
+C:\Users\gorkem\Desktop\ornek17\ornek17\obj\Debug\ornek17.pdb
