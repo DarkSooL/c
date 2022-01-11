@@ -1,0 +1,11 @@
+C:\Users\B-407\Desktop\bilp203 projeleri\hafta 3\ucuncuHafta\ucuncuHafta\bin\Debug\ucuncuHafta.exe.config
+C:\Users\B-407\Desktop\bilp203 projeleri\hafta 3\ucuncuHafta\ucuncuHafta\bin\Debug\ucuncuHafta.exe
+C:\Users\B-407\Desktop\bilp203 projeleri\hafta 3\ucuncuHafta\ucuncuHafta\bin\Debug\ucuncuHafta.pdb
+C:\Users\B-407\Desktop\bilp203 projeleri\hafta 3\ucuncuHafta\ucuncuHafta\obj\Debug\ucuncuHafta.csprojAssemblyReference.cache
+C:\Users\B-407\Desktop\bilp203 projeleri\hafta 3\ucuncuHafta\ucuncuHafta\obj\Debug\ucuncuHafta.Form1.resources
+C:\Users\B-407\Desktop\bilp203 projeleri\hafta 3\ucuncuHafta\ucuncuHafta\obj\Debug\ucuncuHafta.Properties.Resources.resources
+C:\Users\B-407\Desktop\bilp203 projeleri\hafta 3\ucuncuHafta\ucuncuHafta\obj\Debug\ucuncuHafta.csproj.GenerateResource.cache
+C:\Users\B-407\Desktop\bilp203 projeleri\hafta 3\ucuncuHafta\ucuncuHafta\obj\Debug\ucuncuHafta.csproj.CoreCompileInputs.cache
+C:\Users\B-407\Desktop\bilp203 projeleri\hafta 3\ucuncuHafta\ucuncuHafta\obj\Debug\ucuncuHafta.exe
+C:\Users\B-407\Desktop\bilp203 projeleri\hafta 3\ucuncuHafta\ucuncuHafta\obj\Debug\ucuncuHafta.pdb
+C:\Users\B-407\Desktop\bilp203 projeleri\hafta 3\ucuncuHafta\ucuncuHafta\obj\Debug\ucuncuHafta.Form2.resources
